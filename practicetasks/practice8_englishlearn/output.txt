@@ -1,0 +1,92 @@
+на | on | 6
+в | V | 5
+ты | You | 4
+я | I | 3
+а | A | 3
+там | there | 3
+привет | Hello | 2
+поход | campaign | 2
+с | with | 2
+что | What | 2
+собираешься | You are going | 2
+звучит | Sounds | 2
+выставку | Exhibition | 2
+выставка | exhibition | 2
+интересно | Interesting | 2
+была | was | 2
+раз | once | 2
+мне | to me | 2
+может | Maybe | 2
+какие | which | 1
+у | in | 1
+тебя | you | 1
+планы | Plans | 1
+выходные | weekend | 1
+думал | thought | 1
+сходить | go | 1
+друзьями | friends | 1
+делать | do | 1
+здорово | Great | 1
+собиралась | Gathering | 1
+пойти | Go | 1
+музей | museum | 1
+будет | will | 1
+современных | modern | 1
+художников | artists | 1
+о | o | 1
+это | This | 1
+давно | for a long time | 1
+выставках | exhibitions | 1
+да | Yes | 1
+последний | last | 1
+несколько | some | 1
+месяцев | months | 1
+назад | back | 1
+очень | Very | 1
+нравятся | I like it | 1
+современные | Modern | 1
+художники | Artists | 1
+какой | Which | 1
+мы | We | 1
+планируем | We plan | 1
+поехать | Go | 1
+лес | forest | 1
+недалеко | near | 1
+от | from | 1
+города | Cities | 1
+красивые | Beautiful | 1
+места | places | 1
+и | And | 1
+свежий | fresh | 1
+воздух | air | 1
+хочешь | Want | 1
+нами | us | 1
+заманчиво | tempting | 1
+но | But | 1
+уже | already | 1
+купила | I bought it | 1
+билеты | Tickets | 1
+следующий | next | 1
+конечно | Certainly | 1
+не | Not | 1
+проблема | problem | 1
+надеюсь | Hope | 1
+тебе | you | 1
+понравится | I like it | 1
+расскажешь | Tell me | 1
+потом | Then | 1
+интересного | Interesting | 1
+увидела | I saw | 1
+обязательно | Necessarily | 1
+сделай | Make it | 1
+много | very much | 1
+фотографий | Photos | 1
+походе | campaign | 1
+как | How | 1
+хорошо | Fine | 1
+сделаю | I will do it | 1
+удачи | Good luck | 1
+выставке | exhibition | 1
+спасибо | Thank you | 1
+удачного | successful | 1
+похода | campaign | 1
